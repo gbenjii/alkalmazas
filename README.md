@@ -1,0 +1,2 @@
+# alkalmazas
+Sajat alkalmazásom
